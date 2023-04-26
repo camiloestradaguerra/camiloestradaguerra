@@ -1,5 +1,5 @@
 ### Hi there, I'm Camilo Estrada 👋
-Interested in machine learning and neural networks (quantum-classical), quantum computing and IOT. I have experience in programming languages: Python (Pandas, Scikit Learn, Scipy, TensorFlow, Keras, FastAPI, Selenium, BeautifulSoup, Qutip, Qiskit), Mathematica, SQL, R, GitHub, Power Bi, Arduino.
+Interested in machine learning and neural networks (quantum-classical), quantum computing and IOT. I have experience in programming languages: Python (Pandas, Scikit Learn, Scipy, TensorFlow, Keras, FastAPI, Selenium, BeautifulSoup, Qutip, Qiskit), Mathematica, GitHub.
 
 <!--
 **camiloestradaguerra/camiloestradaguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
